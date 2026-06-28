@@ -1,0 +1,6 @@
+pandas
+streamlit
+matplotlib.pyplot
+seaborn
+scikit-learn
+mysql.connector
